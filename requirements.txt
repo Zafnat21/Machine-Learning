@@ -1,0 +1,4 @@
+gradio
+pandas
+numpy<2
+scikit-surprise
