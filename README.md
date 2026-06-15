@@ -1,4 +1,4 @@
-# Machine-Learning-Terapan 👋
+# Machine-Learning
 
 ## 📌 Project Sistem Rekomendasi Game Steam
 
