@@ -11,7 +11,10 @@ Pendekatan ini sejalan dengan penelitian Lomanto et al. tentang rekomendasi game
 Selain itu, penelitian Ticoalua dan Putra juga menunjukkan bahwa collaborative filtering dengan K-NN dapat digunakan untuk membangun sistem rekomendasi video game berbasis playtime pengguna.
 
 Referensi:
-Referensi: [Jurnal 1 - IEEE](https://ieeexplore.ieee.org/document/10352243) dan [Jurnal 2 - JNATIA Unud](https://ejournal2.unud.ac.id/index.php/jnatia/article/view/88)
+Referensi: 
+[Collaborative Filtering for Steam Games Recommendation](https://ieeexplore.ieee.org/document/10352243) 
+[Rekomendasi Video Game Menggunakan Metode
+Collaborative Filtering dengan K-NN](https://ejournal2.unud.ac.id/index.php/jnatia/article/view/88)
 
 ## Business Understanding
 
