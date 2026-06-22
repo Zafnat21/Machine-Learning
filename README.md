@@ -12,4 +12,4 @@
 - `requirements.txt`
 - `steam_cleaned.csv`
 - `steam_svd_model.pkl`
-- `steam_knn_model.pkl`
+
